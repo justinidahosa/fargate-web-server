@@ -1,9 +1,9 @@
-# 🖥️ Serverless WordPress Deployment on AWS Fargate with Terraform
+# Serverless WordPress Deployment on AWS Fargate with Terraform
 
 This project demonstrates how to deploy a , **serverless WordPress web application** on **AWS Fargate**, using **Terraform** to automate and manage all infrastructure resources.  
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The goal of this project is to run **WordPress** in a **serverless container environment** without manually provisioning EC2 instances.  
 
