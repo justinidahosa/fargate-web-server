@@ -2,6 +2,11 @@
 
 This project demonstrates how to deploy a , **serverless WordPress web application** on **AWS Fargate**, using **Terraform** to automate and manage all infrastructure resources.  
 ---
+## Architecture Diagram
+![Architecture Diagram](screenshots/architecture-diagram.png)
+
+
+---
 
 ## Project Overview
 
